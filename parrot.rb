@@ -5,7 +5,6 @@ def parrot("Squawk!")
 
   puts"#{Squawk!}"
   "Pretty bird!"
-  optional default "Squawk!"
 end
 
 
